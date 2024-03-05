@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev-exploration"
+  site-url: "https://yasaswi-p.github.io/nbdev-exploration"
+  description: "Exploring nbdev"
+  repo-branch: main
+  repo-url: "https://github.com/yasaswi-p/nbdev-exploration"
