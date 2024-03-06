@@ -1,0 +1,42 @@
+[
+  {
+    "objectID": "core.html",
+    "href": "core.html",
+    "title": "datatools",
+    "section": "",
+    "text": "source\n\nfoo\n\n foo ()\n\n\nsource\n\n\nadd\n\n add (x, y)\n\n\nadd(5, 4)\n\n9\n\n\n\nsource\n\n\nsubtract_numbers\n\n subtract_numbers (x, y)\n\n\nsubtract_numbers(9, 90)\n\n-81\n\n\n\nassert subtract_numbers(9, 90) == -81\n\n\nsource\n\n\ndivide_numbers\n\n divide_numbers (x, y)\n\n\nassert divide_numbers(80, 0) == \"Error: Cannot divide by zero.\"\n\n\ndivide_numbers(80, 0)\n\n'Error: Cannot divide by zero.'\n\n\n\nfrom fastcore.test import *\n\n\ntest_eq(divide_numbers(80, 0), \"Error: Cannot divide by zero.\")",
+    "crumbs": [
+      "datatools"
+    ]
+  },
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "nbdev-exploration",
+    "section": "",
+    "text": "This file will become your README and also the index of your documentation.",
+    "crumbs": [
+      "nbdev-exploration"
+    ]
+  },
+  {
+    "objectID": "index.html#install",
+    "href": "index.html#install",
+    "title": "nbdev-exploration",
+    "section": "Install",
+    "text": "Install\npip install nbdev_exploration",
+    "crumbs": [
+      "nbdev-exploration"
+    ]
+  },
+  {
+    "objectID": "index.html#how-to-use",
+    "href": "index.html#how-to-use",
+    "title": "nbdev-exploration",
+    "section": "How to use",
+    "text": "How to use\nFill me in please! Don’t forget code examples:\n\n1+1\n\n2",
+    "crumbs": [
+      "nbdev-exploration"
+    ]
+  }
+]
